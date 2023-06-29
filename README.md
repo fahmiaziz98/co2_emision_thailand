@@ -14,7 +14,7 @@ Expected column headers:
 - fuel_type
 - emission_tons
 
-![analyst](img/analsyt.png)
+![analyst](img/analyst.png)
 
 ## Evaluation
 The evaluation metric in Root Mean Squared Error (RMSE). The lower the RMSE value, the better our model's accuracy in making predictions. It provides a comprehensive measure of the differences between the predicted and actual values, giving us valuable insights into the performance of our forecasting model.
