@@ -24,7 +24,7 @@ In conclusion, the total estimated emission in 2022 is 154,621.600. On average, 
 
 These findings provide an intriguing insight into the extent of each sector's contribution to emissions. With a better understanding of the main emission sources, steps can be taken to reduce the negative impact on the environment.
 
-This data offers valuable insights in the efforts to combat climate change and promote sustainability. By understanding the contributions of these sectors, strategic measures can be implemented to improve air quality and reduce greenhouse gas emissions.
+This data offers valuable insights in the efforts to combat climate change and promote sustainability. By understanding the contributions of these sectors, strategic measures can be implemented to improve air quality and reduce gas emissions.
 
 With this understanding, we can work together to achieve sustainable development goals and protect the environment for future generations.
 
